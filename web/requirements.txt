@@ -1,6 +1,4 @@
 Flask
-torch
-torchvision
 nltk
 flask-cors
 gunicorn
